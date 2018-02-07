@@ -1,0 +1,36 @@
+SHA256 hash of doexec.c:
+e785443a6f90417b68eafc0b59ebe8b1077718878b6c9b9fcebf9260bae2de03
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of generic.h:
+b91cb80afa1f6bffabc6cc7453d1cebd2b0b3956e6375df80e2fe8f1f2bc92c5
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of getopt.c:
+bee37fe66d6fce912ca377be55c0f6b7acc383dc61cdb16b1ee2811851d7278e
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of getopt.h:
+05dcf4155a92b2b896982595f15e7aad726bd69ff1e613908bf88da6f79bad5e
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of hash-all-files.bat:
+e7e12264e16607e768e6d40bb8673abd66a88373d843b8baa346a3c91d56f4e1
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of hobbit.txt:
+7700fbba0642587503570359417240cdebafae34ea1153c9335c51dd47fbc39a
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of license.txt:
+204d8eff92f95aac4df6c8122bc1505f468f3a901e5a4cc08940e0ede1938994
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of Makefile:
+a7e3cb228518a26c852402f98059a48c8afa28b439855a87c793810de11e6969
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of nc.exe:
+b3b207dfab2f429cc352ba125be32a0cae69fe4bf8563ab7d0128bba8c57a71c
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of nc64.exe:
+ce80b839411b1541d09b0ede82f1477b516da0c60760079f46ba4443e1a6f419
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of netcat.c:
+7433ec3bb9a86aad6b14353f8379ad92d139e732b138aea8f929651a700718e8
+CertUtil: -hashfile command completed successfully.
+SHA256 hash of readme.txt:
+9cb60cdda1e7d9ca32e8ece119ccd8b7076796a759993adf657b013a892976de
+CertUtil: -hashfile command completed successfully.
